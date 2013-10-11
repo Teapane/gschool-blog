@@ -15,4 +15,8 @@ It is difficult to guess where my skills will be in five months, but if I were t
 
 As far as learning strategies go, I have determined some that are really working for me.  First, repetition, repetition, repetition; doing things over and over really lets me grasp what I am doing and helps in my understanding.  Second, for my learning is time management.  I have noticed that once I reach the 12-14 hour mark, I am no longer being productive.  It makes more sense for me to go home and sleep than to just sit and stare mindlessly at my computer screen. Third, which is directly correlated to time management, is breaking up what I am working on.  I have noticed if I am crunching code for a few hours, it really helps me to take a breather and work on something different; this includes, regex crosswords, reading about ruby or programming, or going back to my old days of Organic Chemistry and reading about new discoveries, etc.  If I focus on one thing for too long, my brain becomes a little tired, and I need a quick break to refresh how I am working.  
 
+Though we were assigned pairs, there was also a fair amount of group working happening as well. There were definetely people who were grasping the project much better than others, and without help from them, I wouldn't have gotten nearly as far on the project as I did.  Which brings me to SHOUT OUTS!!
+
+Shout out number one: Our badass and amazing teacher Katrina (@kytrinyx).  Katrina was probably the most helpful to me these last two weeks.  She helped my 
+
 All in all, only time will tell what the next five months hold for me and my journey to becoming a programmer.  One thing is for certain, I am excited to see wherever it takes me and am ready to jump into the deep end!
